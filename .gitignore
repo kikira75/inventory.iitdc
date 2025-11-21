@@ -72,3 +72,9 @@ storage/ldap_client_tls.key
 /storage/app/public/**
 /storage/uploads/**
 /public/storage/**
+
+*.zip
+/vendor-lama.zip
+/program-itdc.zip
+/inventory.themandalikagp.com.zip
+/.github/workflows//.github/workflows/
